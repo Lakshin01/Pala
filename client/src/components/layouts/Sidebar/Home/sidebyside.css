@@ -1,0 +1,16 @@
+
+#first {
+    width: 100px;
+    float: left;
+    height: 300px;
+
+}
+#second {
+    width: 200px;
+    float: inline-end;
+    height: 300px;
+
+}
+#clear {
+    clear: both;
+}
